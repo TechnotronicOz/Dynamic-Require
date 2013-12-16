@@ -16,7 +16,7 @@ define(
           console.log('Events on window:resize', size);
         });
 
-        console.log('React', React);
+        //console.log('React', React);
       }
     };
 
